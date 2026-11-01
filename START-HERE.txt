@@ -1,0 +1,7 @@
+EV Market Intelligence — demo website
+
+Open index.html in a modern browser. The demo works locally with the included market-data.js file and does not need a server or internet connection.
+
+The original project is included alongside it: data, Tableau workbook, documentation, scripts, SQL, and design notes.
+
+Data note: the project dataset is synthetic sample data.
